@@ -1,0 +1,9 @@
+*.html
+logs/
+figures/
+*_xfm.*
+*from-*_to-*
+*space-fsLR*
+*space-fsnative*
+*space-fsaverage*
+sourcedata/
